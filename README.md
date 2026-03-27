@@ -2,9 +2,7 @@
 
 Accessible Google Colab notebook for quantizing Hugging Face models to GGUF format for Ollama, based on the work of [Ollama](https://ollama.com/) and [llama.cpp](https://github.com/ggerganov/llama.cpp).
 
-| |🇬🇧 English|🇮🇹 Italiano|
-|:--|:-:|:-:|
-| 🚀 **Ollama Quantizer** | [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/ollama-quantizer/blob/main/Ollama_Quantizer.ipynb) | [![Apri in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge-spanish.svg)](https://colab.research.google.com/github/yourusername/ollama-quantizer/blob/main/Ollama_Quantizer_Italian.ipynb) |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bercraft/ollama-quantization-colab/blob/main/ollama-quantization-colab.ipynb)
 
 ---
 
